@@ -1,5 +1,5 @@
 <h1 align="center"> Hello, I'm Chai Junhui 👋 </h1>
-<h3 align="center">🚀 Java Devlover(Try to be an Architect) 🚀</h3>
+<h3 align="center">🚀 Java Developer(Try to be an Architect) 🚀</h3>
 
 - 🔭 I’m currently working on ChinaTelecom
 - 🌱 I’m currently learning K8s & GraalVM

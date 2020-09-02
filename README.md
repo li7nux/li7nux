@@ -1,4 +1,15 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm Chai Junhui 👋 </h1>
+<h3 align="center">🚀 Java Devlover(Try to be an Architect) 🚀</h3>
+
+- 🔭 I’m currently working on ChinaTelecom
+- 🌱 I’m currently learning K8s & GraalVM
+- 💬 Ask me about Web backend dev related Stuff
+
+<a href="https://github.com/li7nux">
+  <img src="https://github-readme-stats.vercel.app/api?username=li7nux&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="ChaiJunhui's GitHub Stats"/>
+</a>
+
+⭐️ From [Chai Junhui](https://github.com/li7nux)
 
 <!--
 **li7nux/li7nux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
